@@ -7,4 +7,4 @@
 </tr>
 </table>
 
-#https://entertainhub.netlify.app/
+https://entertainhub.netlify.app/
